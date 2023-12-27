@@ -1,0 +1,40 @@
+body {
+    padding: 10px;
+    background-color: rgb(104, 118, 104);
+}
+
+.nav-link{
+    display: inline;
+}
+
+textarea {
+    resize: both;
+    overflow: auto;
+}
+
+.filter_bar{
+    display: flex;
+    width: fit-content;
+    margin-bottom: 15px;
+}
+
+.filter_option{
+    text-align: left;
+}
+
+.but_div{
+    text-align: right;
+    margin-left: 15px;
+}
+
+.image{
+    height: 300px;
+    border-radius: 25px;
+}
+
+.description_div{
+    display: flexbox;
+    height: auto;
+    width: 500px;
+    text-justify: auto;
+}
